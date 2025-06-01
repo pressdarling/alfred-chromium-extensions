@@ -3,7 +3,12 @@
 		"Google Chrome": "~/Library/Application Support/Google/Chrome/Default/Extensions",
 		"Brave Browser": "~/Library/Application Support/BraveSoftware/Brave-Browser/Default/Extensions",
 		"Arc": "~/Library/Application Support/Arc/User Data/Default/Extensions",
-		"Thorium": "~/Library/Application Support/Thorium/Default/Extensions"
+		"Thorium": "~/Library/Application Support/Thorium/Default/Extensions",
+		"Vivaldi": "~/Library/Application Support/Vivaldi/Default/Extensions",
+		"Chromium": "~/Library/Application Support/Chromium/Default/Extensions",
+		"Google Chrome Beta": "~/Library/Application Support/Google/Chrome Beta/Default/Extensions",
+		"Vivaldi Snapshot": "~/Library/Application Support/Vivaldi Snapshot/Default/Extensions/",
+		"Brave Browser Beta": "~/Library/Application Support/BraveSoftware/Brave-Browser-Beta/Default/Extensions",
 	},
 	"appIcon": {
 		"Google Chrome": "/Applications/Google Chrome.app/Contents/Resources/app.icns",

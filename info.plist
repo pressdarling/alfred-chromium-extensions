@@ -303,6 +303,26 @@ Created by [Chris Grieser](https://chris-grieser.de/).</string>
 						<string>Thorium</string>
 						<string>Thorium</string>
 					</array>
+					<array>
+						<string>Vivaldi</string>
+						<string>Vivaldi</string>
+					</array>
+					<array>
+						<string>Chromium</string>
+						<string>Chromium</string>
+					</array>
+					<array>
+						<string>Google Chrome Beta</string>
+						<string>Google Chrome Beta</string>
+					</array>
+					<array>
+						<string>Brave Browser Beta</string>
+						<string>Brave Browser Beta</string>
+					</array>
+					<array>
+						<string>Vivaldi Snapshot</string>
+						<string>Vivaldi Snapshot</string>
+					</array>
 				</array>
 			</dict>
 			<key>description</key>
